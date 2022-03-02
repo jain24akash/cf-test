@@ -1,6 +1,7 @@
 ---
 applications:
-- name: cf-nodejs
+- name: cf-random-route12345
   memory: 192M
   instances: 1
   random-route: false
+  host: random-route12345

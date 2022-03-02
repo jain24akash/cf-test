@@ -1,5 +1,5 @@
 {
-  "name": "cf-nodejs",
+  "name": "cf-random-route12345",
   "version": "2.0.0",
   "dependencies": {
     "express": "^4.13.4",
